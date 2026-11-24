@@ -1,0 +1,18 @@
+{
+  "name": "Hasyin B1 Fehlertrainer",
+  "short_name": "B1 Trainer",
+  "description": "Mobile German practice from your own mistakes",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f6",
+  "theme_color": "#1b4338",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
